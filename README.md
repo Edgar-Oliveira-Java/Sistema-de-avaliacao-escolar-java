@@ -23,7 +23,7 @@
 </h2>
 
 <p>
-  Deixo bem claro durante esse readme, que é um algortimo iniciante e simples, porém não foi feito de qualquer forma, pode observar que respeito algumas "Boas Praticas", e estruturo bem pra evitar bugs,
+  Deixo bem claro durante esse readme que é um algortimo iniciante e simples, porém não foi feito de qualquer forma, pode observar que respeito algumas "Boas Praticas", e estruturo bem pra evitar bugs,
   algo que muitos deixariam passar, por exemplo na media, onde uso o (algarismo)/vetor[valor].length. Isso são detalhes que você pode deixar passar, você que está iniciando, talvez se pergunte: "Porque?", 
   Exatamente, quero que você fique se perguntando isso, pergunte a razão do uso desse atributo nesse momento, pergunte a razão do uso "int" ao invés do "double", ou talvez(por mais obvio que seja) você se pergunte,
   a razão do uso do "switch" do que o "if".
